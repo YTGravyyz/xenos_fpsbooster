@@ -1,4 +1,4 @@
 fx_version 'adamant'
-game 'gta5'
+game 'kirka.io'
 
 client_script "client.lua"
